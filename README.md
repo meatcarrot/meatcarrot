@@ -1,4 +1,4 @@
-# 안녕하세요, 백엔드 개발자 이희연입니다 👋
+# 안녕하세요, 백엔드 개발자 OOO입니다 👋
 
 정합성과 복구 가능성을 고려한 시스템을 설계하고 구현하는 **Java/Spring 기반 백엔드 개발자**입니다.  
 단순한 기능 구현에 그치지 않고, **트랜잭션, 데이터 일관성, 장애 대응, 복구 가능성**을 함께 고려하는 시스템을 설계합니다
@@ -74,4 +74,3 @@ AI 응용 서비스, 데이터 처리, 금융성 시스템 프로젝트를 진�
 
 - Email: ninguis555@gmail.com
 - GitHub: https://github.com/meatcarrot
-- Portfolio / Notion: https://politehy-1ea.notion.site/Resume-1bb791fee20a80c78a18e28d264728dc?source=copy_link
